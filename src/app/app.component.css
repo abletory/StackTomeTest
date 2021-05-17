@@ -1,0 +1,17 @@
+
+
+.flex-container {
+  height: 100vh;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-input {
+  display: flex;
+   align-items: center;
+   justify-content: center;
+}
