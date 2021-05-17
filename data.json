@@ -1,0 +1,101 @@
+[{
+    prevOrders: '1',
+    ltvLift: -44.69,
+    rating: 1
+  },
+  {
+    prevOrders: '1',
+    ltvLift: -13.21,
+    rating: 2
+  },
+  {
+    prevOrders: '1',
+    ltvLift: -4.47,
+    rating: 3
+  },
+  {
+    prevOrders: '1',
+    ltvLift: 40.23,
+    rating: 4
+  },
+  {
+    prevOrders: '1',
+    ltvLift: 80.12,
+    rating: 5
+  },
+  {
+    prevOrders: '2',
+    ltvLift: -26.83,
+    rating: 1
+  },
+  {
+    prevOrders: '2',
+    ltvLift: -4.89,
+    rating: 2
+  },
+  {
+    prevOrders: '2',
+    ltvLift: 3.61,
+    rating: 3
+  },
+  {
+    prevOrders: '2',
+    ltvLift: 18.59,
+    rating: 4
+  },
+  {
+    prevOrders: '2',
+    ltvLift: 35.26,
+    rating: 5
+  },
+  {
+    prevOrders: '3',
+    ltvLift: -16.52,
+    rating: 1
+  },
+  {
+    prevOrders: '3',
+    ltvLift: -0.9,
+    rating: 2
+  },
+  {
+    prevOrders: '3',
+    ltvLift: 5.17,
+    rating: 3
+  },
+  {
+    prevOrders: '3',
+    ltvLift: 13.32,
+    rating: 4
+  },
+  {
+    prevOrders: '3',
+    ltvLift: 20.89,
+    rating: 5
+  },
+  {
+    prevOrders: '4+',
+    ltvLift: -1.82,
+    rating: 1
+  },
+  {
+    prevOrders: '4+',
+    ltvLift: 7.06,
+    rating: 2
+  },
+  {
+    prevOrders: '4+',
+    ltvLift: 11.28,
+    rating: 3
+  },
+  {
+    prevOrders: '4+',
+    ltvLift: 10.39,
+    rating: 4
+  },
+  {
+    prevOrders: '4+',
+    ltvLift: 16.79,
+    rating: 5
+  }
+  ]
